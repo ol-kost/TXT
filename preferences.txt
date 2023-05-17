@@ -1,0 +1,8 @@
+
+PREFERENCES.
+
+favorit movie:Knives Out,
+favotite show: Game of Thrones,
+favourite food: manti,
+favourite season: spring,
+country I would like to visit: Japan.
