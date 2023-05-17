@@ -1,1 +1,9 @@
+Name: Oleg Kostryukov;
+Age: 48;
+Pets: 1;
+Salary: 3000$.
+~
+~
+~
+~
 
